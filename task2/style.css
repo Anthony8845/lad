@@ -1,0 +1,9 @@
+.focused {
+    outline:2px solid red;
+    border-radius: 1px;
+    border:2px solid #fff;
+}
+
+input{
+    margin-bottom: 5px;
+}
